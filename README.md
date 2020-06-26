@@ -2,6 +2,8 @@
 
 AR Core, Unity를 이용한 실시간 타일 프리뷰 어플리케이션.
 
+![New Project](https://user-images.githubusercontent.com/52204522/85831736-b4ed9500-b7c9-11ea-81c5-bcab543aeeae.png)
+
 ## Feature
 
 ### !구현 기능
