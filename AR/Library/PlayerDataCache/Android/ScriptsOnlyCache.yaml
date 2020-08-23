@@ -27,6 +27,7 @@ ScriptsOnlyBuild:
     - GoogleARCore.Examples.ObjectManipulation.TranslationManipulator
     - MaterialContainer
     - MeshGenerator
+    - PhotoMode
     - PrefabContainer
     - RotateTexture
     - SpriteContainer
@@ -62,6 +63,8 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Text
     - UnityEngine.UI.VerticalLayoutGroup
+    com.unity.multiplayer-hlapi.Runtime.dll:
+    - UnityEngine.Networking.NetworkCallbacks
   sceneClasses:
     Assets/Scenes/Proto1.unity:
     - Class: 1
@@ -200,6 +203,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13848}
     - Class: 114
       Script: {instanceID: 13930}
+    - Class: 114
+      Script: {instanceID: 17390}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -493,7 +498,7 @@ ScriptsOnlyBuild:
     className: TransitionArmModel
   - hash:
       serializedVersion: 2
-      Hash: 995ece769abe35ef16c6735eeea18bf0
+      Hash: b121eddb4cf16396768cd806f7049d21
     assemblyName: Assembly-CSharp.dll
     namespaceName: GoogleARCore.Examples.ObjectManipulation
     className: PawnGenerator
@@ -1343,7 +1348,13 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ca2a7cd8582b2576d5848c54fd7f410c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PhotoMode
   platform: 13
   scenePathNames:
   - Assets/Scenes/Proto1.unity
-  playerPath: C:/Users/heo/Downloads/demo.apk
+  playerPath: C:/Users/heo/Downloads/final_demmmmmo.apk

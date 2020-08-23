@@ -118,7 +118,7 @@ namespace GoogleARCore.Examples.ObjectManipulation
                         // Select the placed object.
                         manipulator.GetComponent<Manipulator>().Select();
                     }
-                     isFurnitureMode = 0;
+                    isFurnitureMode = 0;
                 }
             }
         }

@@ -253,6 +253,7 @@
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPSession.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPTrackingState.cs" />
     <Compile Include="Assets\MaterialContainer.cs" />
+    <Compile Include="Assets\PhotoMode.cs" />
     <Compile Include="Assets\PrefabContainer.cs" />
     <Compile Include="Assets\Scripts\FurnitureScrollViewContents.cs" />
     <Compile Include="Assets\Scripts\FurnitureSelect.cs" />
