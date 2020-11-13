@@ -37,7 +37,7 @@ namespace GoogleARCore.Examples.ObjectManipulation
                 char sp = '_';
                 string furnitureType = "furnitureType";
                 string[] substring = sprites[i].name.Split(sp);
-                checkTileMat(substring[0], ref furnitureType);
+                checkFurnType(substring[0], ref furnitureType);
                 item.GetComponent<FurnitureInfo>().furnitureType = furnitureType; // set furniture type
                 item.GetComponent<FurnitureInfo>().price = float.Parse(substring[5]); // set furniture price
                 /* print */
@@ -52,7 +52,7 @@ namespace GoogleARCore.Examples.ObjectManipulation
             }
         }
 
-        void checkTileMat(string s, ref string furnitureType)
+        void checkFurnType(string s, ref string furnitureType)
         {
             if (s[0] == 'T')
             {
