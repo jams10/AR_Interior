@@ -32,12 +32,11 @@ Unity, Android 7.0 Nougat 이상의 모바일 디바이스
 
 ## Acknowledgements
 
-[Triangulator 클래스](https://wiki.unity3d.com/index.php/Triangulator)
-(ear clipping 알고리즘을 사용)
+#### [Triangulator 클래스](https://wiki.unity3d.com/index.php/Triangulator)(ear clipping 알고리즘을 사용)
 
-[Unity Mesh Document](https://docs.unity3d.com/kr/530/ScriptReference/Mesh.html)
+#### [Unity Mesh Document](https://docs.unity3d.com/kr/530/ScriptReference/Mesh.html)
 
-[AR Core Document](https://developers.google.com/ar/develop/unity)
+#### [AR Core Document](https://developers.google.com/ar/develop/unity)
 
 ## Icon copyrights
 furniture-and-household : this icon is made by Icongeek26 from https://www.flaticon.com/
